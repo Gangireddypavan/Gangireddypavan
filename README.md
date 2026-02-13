@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi👋 I'm pavan
+💻 Aspiring Software Engineer | Problem Solver | Tech Enthusiast
 
-<!--
-**Gangireddypavan/Gangireddypavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+->Strong interest in Data Structures & Algorithms.
+->Passionate about building real-world projects.
+->Currently looking for internship / entry-level opportunities.
+->Consistent learner and fast adapter.
 
-Here are some ideas to get you started:
+ 📊 Current Focus
+-Mastering DSA for technical interviews.
+-Building scalable full-stack applications.
+-Preparing for software engineering roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current projects
+.Automation of jobs
+.car service application
+
+📫 Connect With Me
+
+LinkedIn:https://www.linkedin.com/in/gangireddypavan
+
+Email: pavangangireddy53@gamil.comm
